@@ -1,0 +1,85 @@
+.container {
+    border: 70px solid #7c7c79;
+    background-color: #7c7c79;
+}
+
+h1 {
+    color: rgb(150, 100, 100);
+    font-family: sans-serif;
+    padding: 12px;
+    background-color: rgb(210, 210, 218);
+    text-align: center;
+}
+
+div {
+    background-color: #7c7c79;
+}
+
+p {
+    margin: 0;
+    color: #fff;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+p.one {
+    background-color: #357aaf;
+}
+
+p.two {
+    background-color: #3686b9;
+}
+
+p.three {
+    background-color: #3293c3;
+}
+
+p.four {
+    background-color: #469fcb;
+}
+
+p.five {
+    background-color: #5fadd2;
+}
+
+p.six {
+    background-color: #75bada;
+}
+
+p.seven {
+    background-color: #8dc4df;
+}
+
+p.eight {
+    background-color: #23ab7e;
+}
+
+p.nine {
+    background-color: #e7abc1;
+}
+
+p.ten {
+    background-color: #e799b5;
+}
+
+p.eleven {
+    background-color: #e587a7;
+}
+
+p.twelve {
+    background-color: #e2749a;
+}
+
+p.thirteen {
+    background-color: #e0658a;
+}
+
+p.fourteen {
+    background-color: #db5580;
+}
+
+p.fifthteen {
+    background-color: #da3d75;
+}
